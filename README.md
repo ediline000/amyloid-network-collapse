@@ -1,4 +1,4 @@
-# amyloid-network-collapse
+# Amyloid-driven neuronal network collapse
 Data coding  for simulations of amyloid-driven neuronal network collapse
 # Amyloid-driven neuronal network collapse
 
