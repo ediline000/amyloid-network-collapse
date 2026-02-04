@@ -9,7 +9,7 @@ This repository contains the code and data supporting the manuscript:
 ## Overview
 We study the impact of progressive amyloid accumulation on neuronal network
 structure and dynamics. Network topology is generated in MATLAB, while spiking
-network simulations and analyses are performed in Python.
+network simulations and analyses are performed in Python. However figures were plotted and processed in MATLAB.
 
 ## Repository structure
 - `matlab/`: network construction and connectivity export
